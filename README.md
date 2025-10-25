@@ -1,7 +1,7 @@
 # Meu repositorio de estudos - Git e GitHub
 # OBJETIVOS DA AULA:
 
-Criar um repositório local e adicioná-lo ao nosso GitHub - remoto; [  ]
+1. Criar um repositório local e adicioná-lo ao nosso GitHub - remoto; [  ]
 
 2. Clonar um repositório remoto para o nosso computador local; [  ]
 
